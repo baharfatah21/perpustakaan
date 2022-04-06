@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    echo "ini adalah filea";
+    echo "ini adalah files percobaan masuk ke Github";
     
     ?>
 </body>
